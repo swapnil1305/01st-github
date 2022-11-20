@@ -6,3 +6,5 @@ vegggies
 maggi noodles
 maggi masala
 spices
+
+salt
